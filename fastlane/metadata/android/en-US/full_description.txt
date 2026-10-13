@@ -1,0 +1,25 @@
+Get charged for meals at work? Meal Sheet is a simple, private way to keep your own record of what you ate, and to make sure the deduction on your paycheck is right.
+
+Lots of workplaces (hospitals, treatment centers, group homes, care facilities, restaurants, camps) keep a paper sheet where staff initial each meal they eat, then take the total out of their pay. Meal Sheet gives you your own copy of that sheet, right on your phone.
+
+<b>How it works</b>
+• Tap Breakfast, Lunch, or Dinner to "initial" it. Tap again to undo.
+• Each meal is stamped with your initials, the time, and the price.
+• Forgot one? Tap any past day on the calendar to add it. Meals added after the fact are marked as late.
+• See your running total for the current pay period at a glance.
+
+<b>Check your paycheck</b>
+• Set your pay schedule: weekly, every two weeks, twice a month, or monthly.
+• The Totals tab shows what you owe for each pay period, so you can compare it with the meal deduction on your paystub.
+• Set a different price for breakfast, lunch, and dinner. Price changes only apply going forward, so your history stays accurate.
+
+<b>Share or export</b>
+• Send a monthly or pay-period summary by text or email.
+• Export every meal as a CSV file for a spreadsheet.
+
+<b>Private by design</b>
+• No ads. No account. No tracking. No analytics.
+• Meal Sheet doesn't have internet permission, so everything you log stays on your phone.
+• Free and open source: github.com/BenyahmanLunnDev/meal-sheet
+
+Meal Sheet isn't connected to your employer's payroll system. It's your own personal record, to help you keep track and catch mistakes.

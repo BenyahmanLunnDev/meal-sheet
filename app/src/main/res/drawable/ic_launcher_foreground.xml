@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A clipboard meal sheet: breakfast and lunch checked, dinner still open. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="1.15"
+        android:scaleY="1.15">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M41,30 h26 a5,5 0 0 1 5,5 v38 a5,5 0 0 1 -5,5 h-26 a5,5 0 0 1 -5,-5 v-38 a5,5 0 0 1 5,-5 z" />
+        <path
+            android:fillColor="#0F4A41"
+            android:pathData="M49,26 h10 a2.5,2.5 0 0 1 2.5,2.5 v4 a2.5,2.5 0 0 1 -2.5,2.5 h-10 a2.5,2.5 0 0 1 -2.5,-2.5 v-4 a2.5,2.5 0 0 1 2.5,-2.5 z" />
+        <!-- Breakfast -->
+        <path
+            android:fillColor="#E0901F"
+            android:pathData="M43,41 h4 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-4 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M42.9,45.2 L44.4,46.7 L47.2,43.4" />
+        <path
+            android:fillColor="#D0D3CC"
+            android:pathData="M54.5,43.5 h11 a1.5,1.5 0 0 1 0,3 h-11 a1.5,1.5 0 0 1 0,-3 z" />
+        <!-- Lunch -->
+        <path
+            android:fillColor="#2F8A50"
+            android:pathData="M43,52 h4 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-4 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M42.9,56.2 L44.4,57.7 L47.2,54.4" />
+        <path
+            android:fillColor="#D0D3CC"
+            android:pathData="M54.5,54.5 h8 a1.5,1.5 0 0 1 0,3 h-8 a1.5,1.5 0 0 1 0,-3 z" />
+        <!-- Dinner (not yet) -->
+        <path
+            android:fillColor="#D0D3CC"
+            android:pathData="M43,63 h4 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-4 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z" />
+        <path
+            android:fillColor="#D0D3CC"
+            android:pathData="M54.5,65.5 h10 a1.5,1.5 0 0 1 0,3 h-10 a1.5,1.5 0 0 1 0,-3 z" />
+    </group>
+</vector>

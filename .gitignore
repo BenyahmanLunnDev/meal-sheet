@@ -1,0 +1,15 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+# Signing secrets: back these up somewhere safe, never commit them
+keystore.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+
+# Leftover copy of the first prototype (not part of the project)
+/MealSheet/
